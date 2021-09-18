@@ -57,6 +57,6 @@ If you have any feedback, please reach out to us at 1998abhishek16@gmail.com
   
 ## Authors
 
-- [Abhishek Amanchi](https://www.github.com/octokatherine)
+- [Abhishek Amanchi](https://github.com/Abhishekamanchi)
 
   
